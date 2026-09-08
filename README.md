@@ -1,14 +1,11 @@
 # Portfolio Optimizer
-
-A web app that helps you split your money across stocks using Modern Portfolio Theory (Markowitz mean-variance optimization); with both a plain-English mode for beginners and a detailed quant view for anyone who wants the numbers.
-
+A web app that helps you split your money across stocks using Modern Portfolio Theory (Markowitz mean-variance optimization), with a beginner-friendly interface that explains what the numbers mean.
 ## Status: 🚧 In progress
-
-Building this in public - follow along on [X/Twitter link here].
-
 ## Roadmap
 - [x] Set up project
-- [ ] Pull historical stock data
-- [ ] Run portfolio optimization
-- [ ] Simple web UI
+- [x] Pull historical stock data
+- [x] Run portfolio optimization
+- [x] Simple web UI (dropdown stock selection, plain-English descriptions)
+- [ ] ML-based return forecasting
+- [ ] Backtesting
 - [ ] Deploy publicly
